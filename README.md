@@ -1,1 +1,1 @@
-# SVM-Digit-recognition
+# SVM-Digit-recognition by python
